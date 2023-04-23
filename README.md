@@ -28,7 +28,7 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexandre-pinon&theme=midnight-purple&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-pinon&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-pinon&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact&hide=jupyter%20notebook" />
 </p>
 
 ### ✍️ Random Dev Quote
